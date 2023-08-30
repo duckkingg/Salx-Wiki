@@ -9,8 +9,8 @@ outline: deep
 ### 1. 下载
 Java 环境：
 <br/>
-  - JRE 17：https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe
-  - JDK 1.8: https://repo.huaweicloud.com/java/jdk/8u202-b08/jdk-8u202-windows-x64.exe
+  - JRE 17 - 1.18版本及以上：https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe
+  - JDK 1.8 - 1.12及以下: https://repo.huaweicloud.com/java/jdk/8u202-b08/jdk-8u202-windows-x64.exe
 <br/>
 
 我的世界启动器：
